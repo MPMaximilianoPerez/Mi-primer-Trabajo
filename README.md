@@ -1,2 +1,1 @@
-# Mi-primer-Trabajo
-este sera mi primer trabajo online
+esta es mi primera prueba online de clonacion
